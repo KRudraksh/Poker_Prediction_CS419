@@ -33,6 +33,6 @@ The `poker_prediction.ipynb` file contains all the codes for reading, analysing 
 The contributors and work distribution:
 - Rudraksh Kuchiya (20D110021): Formulating the model, writing the python notebook, fitting the model and generating results; compiling the github repo and readme file.
 - Aarya Chaudhari (20D110002): Writing the report and presentation
-- Muskan Bhutra
+- Muskan Bhutra (200040085): Writing the report and presentation
 - Raghav Rander (200040113): Writing the report and presentation
 - Utkarsh Jindal (200070086): : Writing the report and presentation
