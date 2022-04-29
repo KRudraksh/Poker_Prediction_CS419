@@ -1,4 +1,4 @@
-# Poker Prediction Model CS419 Project
+# Poker Prediction Model (CS419 Project)
 
 This repository contains a Deep Neural Networks model for predicting hands in poker. 
 
