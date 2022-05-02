@@ -33,7 +33,7 @@ This will return a `poker-hand-testing.csv` file which is used in our model.
 The `poker_prediction.ipynb` file contains all the codes for reading, analysing and predicting data. It also displays results of accuracy and precision of the model. The google colab notebook can be found here (https://colab.research.google.com/drive/1flWsONo_E0LKh4euKR9dUmADwLQrVhoz?usp=sharing)
 
 The contributors and work distribution:
-- Rudraksh Kuchiya (20D110021): Formulating the model, writing the python notebook, fitting the model and generating results; compiling the github repo and readme file.
+- Rudraksh Kuchiya (20D110021): Formulating the model, writing the python notebook, fitting the model and generating results; compiling the github repo and readme file, Write and compile report on Latex.
 - Aarya Chaudhari (20D110002): Writing the report and presentation
 - Muskan Bhutra (200040085): Writing the report and presentation
 - Raghav Rander (200040113): Writing the report and presentation
