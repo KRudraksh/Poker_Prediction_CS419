@@ -37,4 +37,4 @@ The contributors and work distribution:
 - Aarya Chaudhari (20D110002): Writing the report and presentation
 - Muskan Bhutra (200040085): Writing the report and presentation
 - Raghav Rander (200040113): Writing the report and presentation
-- Utkarsh Jindal (200070086): : Writing the report and presentation
+- Utkarsh Jindal (200070086): Writing the report and presentation
