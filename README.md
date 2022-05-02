@@ -18,6 +18,7 @@ This repo contains following files:
 - [poker_prediction.ipynb](https://colab.research.google.com/drive/1flWsONo_E0LKh4euKR9dUmADwLQrVhoz?usp=sharing)
 
 The `poker-hand-testing.csv` and `poker-hand-training-true.csv` files are generated from `poker-hand-testing.data` and `poker-hand-training-true.csv` files respectively.
+
 The `generate_csv.py` file is used to convert `.data` files to `.csv` files. It can be used as 
 ```
 python generate_csv.py [filename]
